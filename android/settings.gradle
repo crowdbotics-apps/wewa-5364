@@ -1,0 +1,3 @@
+rootProject.name = 'wewa_5364'
+
+include ':app'
